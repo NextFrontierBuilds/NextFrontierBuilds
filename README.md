@@ -3,7 +3,7 @@
 Free AI dev tools. One command. No setup.
 
  [𝕏 Twitter](https://x.com/NextXFrontier) ·
- [npm](https://www.npmjs.com/~tytaninc7) ·
+ [npm](https://www.npmjs.com/org/nextfrontierbuilds) ·
  [ClawdHub](https://clawdhub.com)
 
 ![tools](https://img.shields.io/badge/tools-15+-blue?style=flat-square)
