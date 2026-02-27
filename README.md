@@ -1,64 +1,150 @@
-## ⚡ Next Frontier AI
+<div align="center">
 
-Free AI dev tools. One command. No setup.
+# ⚡ Next Frontier AI
 
- [𝕏 Twitter](https://x.com/NextXFrontier) ·
- [npm](https://www.npmjs.com/org/nextfrontierbuilds) ·
- [ClawdHub](https://clawdhub.com)
+**Free AI dev tools. One command. No setup.**
 
-![tools](https://img.shields.io/badge/tools-15+-blue?style=flat-square)
-![license](https://img.shields.io/badge/license-MIT-green?style=flat-square)
-![install](https://img.shields.io/badge/install-npx-orange?style=flat-square)
+[![X/Twitter](https://img.shields.io/badge/𝕏_@NextXFrontier-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NextXFrontier)
+[![npm](https://img.shields.io/badge/npm-tytaninc7-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~tytaninc7)
+[![ClawdHub](https://img.shields.io/badge/ClawdHub-Skills-14B8A6?style=for-the-badge)](https://clawdhub.com)
 
-We build CLI tools and AI agent skills. Everything runs with `npx` or installs via ClawdHub. No accounts. No config files. Pick one and run it.
+![Tools](https://img.shields.io/badge/Tools-20+-blue?style=flat-square)
+![npm downloads](https://img.shields.io/badge/npm_downloads-5K+/mo-brightgreen?style=flat-square)
+![ClawdHub installs](https://img.shields.io/badge/ClawdHub_installs-1.4K+-orange?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
----
-
-### 🤖 AI Agent Skills (Moltbot/Clawdbot)
-
-| Tool | What it does | Install |
-|------|-------------|---------|
-| [moltbot-best-practices](https://github.com/NextFrontierBuilds/moltbot-best-practices) | 15 rules to make your AI agent actually listen | `clawdhub install NextFrontierBuilds/moltbot-best-practices` |
-| [moltbot-security](https://github.com/NextFrontierBuilds/moltbot-security) | Lock down your gateway, fix permissions, set up auth | `clawdhub install NextFrontierBuilds/moltbot-security` |
-| [x-algorithm](https://github.com/NextFrontierBuilds/x-algorithm) | X/Twitter algorithm rules and viral strategies | `clawdhub install NextFrontierBuilds/x-algorithm` |
-| [x-articles-skill](https://github.com/NextFrontierBuilds/x-articles-skill) | Publish viral X Articles with AI | `clawdhub install NextFrontierBuilds/x-articles-skill` |
-
-### 💰 Finance & Trading (Strykr/PRISM)
-
-| Tool | What it does | Install |
-|------|-------------|---------|
-| [strykr-prism-skill](https://github.com/NextFrontierBuilds/strykr-prism-skill) | Real-time financial data API for AI agents | `clawdhub install NextFrontierBuilds/strykr-prism-skill` |
-| [prism-scanner-skill](https://github.com/NextFrontierBuilds/prism-scanner-skill) | Instant rug pull detection for any token | `clawdhub install NextFrontierBuilds/prism-scanner-skill` |
-| [prism-alerts-skill](https://github.com/NextFrontierBuilds/prism-alerts-skill) | Real-time Pump.fun token alerts | `clawdhub install NextFrontierBuilds/prism-alerts-skill` |
-| [fear-greed-skill](https://github.com/NextFrontierBuilds/fear-greed-skill) | Embeddable Fear & Greed Index component | `clawdhub install NextFrontierBuilds/fear-greed-skill` |
-
-### 🧪 QA & Testing
-
-| Tool | What it does | Install |
-|------|-------------|---------|
-| [web-qa-bot](https://github.com/NextFrontierBuilds/web-qa-bot) | Automated QA for web apps using AI | `npx web-qa-bot` |
-| [strykr-qa-bot](https://github.com/NextFrontierBuilds/strykr-qa-bot) | Pre-built test suites for Strykr platform | `npx strykr-qa-bot` |
-
-### 📄 PDF Generation
-
-| Tool | What it does | Install |
-|------|-------------|---------|
-| [ai-pdf-builder](https://github.com/NextFrontierBuilds/ai-pdf-builder) | Generate PDFs from Markdown — SAFEs, NDAs, whitepapers | `npx ai-pdf-builder` |
+</div>
 
 ---
 
-### What we're building
-
-- **[Strykr](https://strykr.com)** — AI-powered market intelligence for traders. 15K+ MAU, $60K+ revenue.
-- **PRISM** — Self-learning API for canonical asset resolution across financial markets.
-- **[Taska](https://github.com/NextFrontierBuilds/Taska)** — Polymarket for robotics. Prediction markets for robot battles.
-
-### Right now
-
-- Shipping AI agent skills every week
-- Building in public on [@NextXFrontier](https://x.com/NextXFrontier)
-- Growing the Next Frontier ecosystem
+We build **CLI tools** and **AI agent skills** that just work. Everything runs with `npx` or installs via ClawdHub. No accounts. No config. Pick one and run it.
 
 ---
 
-Everything's MIT. Take it, fork it, build something cool with it.
+## 📦 npm Packages
+
+| Package | Downloads | Description | Install |
+|---------|-----------|-------------|---------|
+| [**elite-longterm-memory**](https://github.com/NextFrontierBuilds/elite-longterm-memory) | ![npm](https://img.shields.io/npm/dm/elite-longterm-memory?style=flat-square&label=) | WAL protocol + vector search + git-notes memory | `npm i elite-longterm-memory` |
+| [**ai-pdf-builder**](https://github.com/NextFrontierBuilds/ai-pdf-builder) | ![npm](https://img.shields.io/npm/dm/ai-pdf-builder?style=flat-square&label=) | Generate PDFs — SAFEs, NDAs, whitepapers | `npx ai-pdf-builder` |
+| [**skill-scaffold**](https://github.com/NextFrontierBuilds/skill-scaffold) | ![npm](https://img.shields.io/npm/dm/skill-scaffold?style=flat-square&label=) | Scaffold AI agent skills instantly | `npx skill-scaffold` |
+| [**moltbot-best-practices**](https://github.com/NextFrontierBuilds/moltbot-best-practices) | ![npm](https://img.shields.io/npm/dm/moltbot-best-practices?style=flat-square&label=) | 15 rules to make AI agents listen | `npm i moltbot-best-practices` |
+| [**web-qa-bot**](https://github.com/NextFrontierBuilds/web-qa-bot) | ![npm](https://img.shields.io/npm/dm/web-qa-bot?style=flat-square&label=) | Automated QA for web apps | `npx web-qa-bot` |
+| [**x-algorithm**](https://github.com/NextFrontierBuilds/x-algorithm) | ![npm](https://img.shields.io/npm/dm/x-algorithm?style=flat-square&label=) | X/Twitter algorithm & viral strategies | `npm i x-algorithm` |
+| [**moltbot-security**](https://github.com/NextFrontierBuilds/moltbot-security) | ![npm](https://img.shields.io/npm/dm/moltbot-security?style=flat-square&label=) | Security hardening for AI agents | `npm i moltbot-security` |
+
+---
+
+## 🤖 AI Agent Skills (OpenClaw / Moltbot)
+
+Install via [ClawdHub](https://clawdhub.com) — the marketplace for AI agent skills.
+
+### Agent Essentials
+
+| Skill | Installs | Description |
+|-------|----------|-------------|
+| [**ai-pdf-builder**](https://clawdhub.com/skill/ai-pdf-builder) | 394 | Generate professional PDFs from markdown |
+| [**moltbot-best-practices**](https://clawdhub.com/skill/moltbot-best-practices) | 372 | Essential rules for well-behaved agents |
+| [**x-articles**](https://clawdhub.com/skill/x-articles) | 137 | Publish viral X/Twitter Articles |
+| [**x-algorithm**](https://clawdhub.com/skill/x-algorithm) | 130 | Master the X algorithm |
+| [**moltbot-security**](https://clawdhub.com/skill/moltbot-security) | 112 | Lock down your AI agent |
+| [**web-qa-bot**](https://clawdhub.com/skill/web-qa-bot) | 103 | Automated QA testing |
+
+### Finance & Trading (Strykr/PRISM)
+
+| Skill | Installs | Description |
+|-------|----------|-------------|
+| [**strykr-prism**](https://clawdhub.com/skill/strykr-prism) | 54 | Real-time financial data API (120+ endpoints) |
+| [**fear-greed**](https://clawdhub.com/skill/fear-greed) | 43 | Embeddable Fear & Greed Index |
+| [**prism-alerts**](https://clawdhub.com/skill/prism-alerts) | 37 | Real-time Pump.fun token alerts |
+| [**prism-scanner**](https://clawdhub.com/skill/prism-scanner) | 35 | Instant rug pull detection |
+
+```bash
+# Install any skill
+clawdhub install NextFrontierBuilds/skill-name
+```
+
+---
+
+## 🚀 What We're Building
+
+<table>
+<tr>
+<td width="50%">
+
+### [Strykr](https://strykr.com)
+AI-powered market intelligence for traders.
+- **15K+ monthly active users**
+- **$60K+ revenue**
+- Real-time signals & sentiment analysis
+
+</td>
+<td width="50%">
+
+### PRISM API
+Self-learning financial data resolution.
+- **120+ endpoints**
+- Stocks, crypto, forex, ETFs
+- Built for AI agents
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [Taska](https://github.com/NextFrontierBuilds/Taska)
+Polymarket for robotics.
+- Prediction markets for robot battles
+- SaltyBet meets BattleBots meets Crypto
+- *Coming soon*
+
+</td>
+<td width="50%">
+
+### Open Source
+Building AI tools in public.
+- **20+ tools shipped**
+- **5K+ npm downloads/month**
+- **1.4K+ ClawdHub installs**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔧 Quick Start
+
+```bash
+# Generate a PDF document
+npx ai-pdf-builder generate safe ./investment.md -o safe.pdf
+
+# Scaffold a new AI skill
+npx skill-scaffold my-skill
+
+# Run automated QA tests
+npx web-qa-bot https://your-site.com
+
+# Generate README badges
+npx npm-badge-maker your-package
+```
+
+---
+
+## 📡 Connect
+
+- **X/Twitter:** [@NextXFrontier](https://x.com/NextXFrontier)
+- **YouTube:** [Next Frontier](https://youtube.com/@NextXFrontier)
+- **npm:** [tytaninc7](https://www.npmjs.com/~tytaninc7)
+- **ClawdHub:** [NextFrontierBuilds](https://clawdhub.com/publisher/NextFrontierBuilds)
+
+---
+
+<div align="center">
+
+**Everything's MIT. Take it, fork it, ship something.**
+
+![Made with AI](https://img.shields.io/badge/Made_with-AI-FF6B6B?style=flat-square)
+![Vibe Coded](https://img.shields.io/badge/Vibe-Coded-9B59B6?style=flat-square)
+
+</div>
